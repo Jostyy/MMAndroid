@@ -39,7 +39,7 @@ tais fotos foram tiradas nesse evento, etc.
 
 * Executar midias que estao em um servidor remoto
 
-* ...
+* Playlist 
 
 
 Para colaboradores
